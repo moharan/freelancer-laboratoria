@@ -4,9 +4,7 @@
 	margin:0;
 	padding:0;
 }
-h1 {
-	font-size: 20px;
-}
+
 .container {
 	max-width:1200px;
 	width:100%;
@@ -75,4 +73,7 @@ h1 {
 .img-responsive {
 	max-width:100%;
 	width: 100%;
+}
+.center {
+	text-align: center;
 }

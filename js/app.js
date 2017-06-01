@@ -1,4 +1,3 @@
 /*
- * Archivo principal de JS
+ * Archivo principal de JS  alert("existe");
  */
- alert("existe");
